@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://track.altkraft.com/issue/PL-17507/Bug-WebPushSDK-ne-obrabatyvaet-flag-inexclusive-v-metode-updateSubscription",
+  "display": "standalone"
+}
